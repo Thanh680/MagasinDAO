@@ -1,0 +1,10 @@
+E:\visual\ADO\ADO\bin\Debug\ADO.exe.config
+E:\visual\ADO\ADO\bin\Debug\ADO.exe
+E:\visual\ADO\ADO\bin\Debug\ADO.pdb
+E:\visual\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+E:\visual\ADO\ADO\obj\Debug\ADO.Form1.resources
+E:\visual\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+E:\visual\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+E:\visual\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+E:\visual\ADO\ADO\obj\Debug\ADO.exe
+E:\visual\ADO\ADO\obj\Debug\ADO.pdb
